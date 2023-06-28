@@ -129,13 +129,19 @@ python manage.py runserver
 
 ![pagina de inicio django](imgs/capturaDjango.png)
 
-- Se crea una aplicacion en el proyecto
+- Se crea una aplicacion en el proyecto y se utiliza HttpResponse
 
 ```
 django-admin startapp calc
 ```
 
-- Modificando los archivos urls y views dentro de /calc
+- Se crea una aplicacion en el proyecto
+
+![HelloWorld](imgs/helloWorldDjango.png)
+
+- Se modifica el archivo settings del proyecto para renderizar una pagina desde una carpeta templates
+
+  ![HelloWorld](imgs/saludosDjango.png)
 
 #
 
