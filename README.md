@@ -143,6 +143,10 @@ django-admin startapp calc
 
   ![HelloWorld](imgs/saludosDjango.png)
 
+- Se Creo un nuevo archivo html llamado base, de donde todas las demas paginas heredaran caracteristicas
+
+  ![HelloWorld](imgs/HeredandoHtmlBase.png)
+
 #
 
 ## Ejercicios Propuestos
