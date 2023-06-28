@@ -147,6 +147,12 @@ django-admin startapp calc
 
   ![HelloWorld](imgs/HeredandoHtmlBase.png)
 
+- Se establecio una nueva conexion con otra pagina derivada de base, ademas se incluyo un forms en la pagina principal, para agregarle una funcionalidad. Se aprendió acerca de como trabajar con valores obtenidos de un forms.
+
+  ![HelloWorld](imgs/forms.png)
+
+  ![HelloWorld](imgs/suma.png)
+
 #
 
 ## Ejercicios Propuestos
@@ -155,8 +161,8 @@ django-admin startapp calc
    una aplicación de Destinos turísticos y adecuarla a un proyecto en blanco
    Django.
 
-2. Luego trabajar con un modelo de tabla DestinosTuristicos donde se
-   guarden nombreCiudad, descripcionCiudad, imagenCiudad, precioTour,
+2. Luego trabajar con un modelo de tabla Destinos Turisticos donde se
+   guarden nombreCiudad, descripcion Ciudad, imagenCiudad, precioTour,
    ofertaTour (booleano). Estos destinos turísticos deberán ser agregados
    en una vista dinámica utilizando tags for e if.
 
