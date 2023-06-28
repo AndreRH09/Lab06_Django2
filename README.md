@@ -113,7 +113,29 @@
 
 # Desarollo del Tutorial - Django for Begginers
 
-- Primero se incializa el repositorio de **github** para la parte personal
+- Primero se incializa el repositorio de **github** ( [enlace del repositorio personal](https://github.com/AndreRH09/Lab06_Django2.git) ) para desarrollar el tutorial.
+
+- Se instalaron dependencias como _pip y venv_ para solucionar el problema de las multiples versiones que puedan afectar a otros proyectos
+
+- se crea un entorno virtual llamado **"test"** además se lista todos los requerimientos en un llamado _requirements.txt_ para que no haya un problema al momento de replicar el repositorio
+
+- usando los comandos
+
+```
+django-admin startproject proyectoTutorial
+
+python manage.py runserver
+```
+
+![pagina de inicio django](imgs/capturaDjango.png)
+
+- Se crea una aplicacion en el proyecto
+
+```
+django-admin startapp calc
+```
+
+- Modificando los archivos urls y views dentro de /calc
 
 #
 
