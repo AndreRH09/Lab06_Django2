@@ -153,6 +153,10 @@ django-admin startapp calc
 
   ![HelloWorld](imgs/suma.png)
 
+- Se aprendió la diferencia entre los metodos GET Y POST para el uso de la aplicación Web,
+
+  ![HelloWorld](imgs/post.png)
+
 #
 
 ## Ejercicios Propuestos

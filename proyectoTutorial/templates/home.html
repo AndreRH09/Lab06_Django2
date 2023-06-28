@@ -4,8 +4,9 @@
   Nombre: {{name}}
 </h1>
 
-<form action="add">
-  ingrese el 1er numero: <input type="text" name="num1" /><br />
+<form action="add" method="post">
+  {% csrf_token %} ingrese el 1er numero:
+  <input type="text" name="num1" /><br />
   ingrese el 2do numero: <input type="text" name="num2" /><br />
   <input type="submit" />
 </form>
