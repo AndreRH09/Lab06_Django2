@@ -165,6 +165,10 @@ django-admin startapp calc
 
   ![HelloWorld](imgs/objetosDinamicos.png)
 
+- Se utilizaron los condicionales para tener un resultado unico siempre y cuando se cumpla la condicion, en este caso un booleano.
+
+  ![HelloWorld](imgs/ifStatement.png)
+
 #
 
 ## Ejercicios Propuestos
