@@ -161,6 +161,10 @@ django-admin startapp calc
 
   ![HelloWorld](imgs/paginaStatica.png)
 
+- En la pagina web anteriormente creada, se implemento la forma de trabajar con objetos dinamicos, aqui se trabajo con modulos para crear una clase con atributos como nombre, precio ,descripcion y una imagen. Seguidamente se trabajo con una sintaxis para generar un loop, asi se puede obviar procesos repetitivos.
+
+  ![HelloWorld](imgs/objetosDinamicos.png)
+
 #
 
 ## Ejercicios Propuestos
