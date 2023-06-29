@@ -157,6 +157,10 @@ django-admin startapp calc
 
   ![HelloWorld](imgs/post.png)
 
+- Se creo una pagina web a base de una plantilla de Travello, se creo una aplicacion homonima y se configuro para que las dependencias como hojas de estilos, javascript o imagenes esten disponibles
+
+  ![HelloWorld](imgs/paginaStatica.png)
+
 #
 
 ## Ejercicios Propuestos
