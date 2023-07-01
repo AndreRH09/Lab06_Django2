@@ -200,6 +200,13 @@ django-admin startapp calc
   ![HelloWorld](imgs/credencialesInvalidos.png)
 
 
+- Se creo la forma de verificar si un usuario esta logeado y que salga de ese sesion 
+
+  ![HelloWorld](imgs/logout.png)
+
+  
+  ![HelloWorld](imgs/logout2.png)
+
 
 
 
