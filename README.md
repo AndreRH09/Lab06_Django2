@@ -183,6 +183,12 @@ django-admin startapp calc
 
   ![HelloWorld](imgs/imagenesDInamicas.png)
 
+- Se creo un formulario para poder registrar usuario regulares y se enlazo con la base de datos 
+
+  ![HelloWorld](imgs/frankj.png)
+
+
+  ![HelloWorld](imgs/userCre.png)
 
 #
 
