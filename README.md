@@ -176,6 +176,14 @@ django-admin startapp calc
 
   ![HelloWorld](imgs/migraciones.png)
 
+- Se creo de forma dinamica una forma de añadir lugares turisticos desde admin
+  
+  ![HelloWorld](imgs/adminRegis.png)
+
+
+  ![HelloWorld](imgs/imagenesDInamicas.png)
+
+
 #
 
 ## Ejercicios Propuestos
