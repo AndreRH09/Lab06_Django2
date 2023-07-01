@@ -169,6 +169,13 @@ django-admin startapp calc
 
   ![HelloWorld](imgs/ifStatement.png)
 
+- Se instalo postgres sql y se creo una tabla tambien aplicando migraciones
+  
+  ![HelloWorld](imgs/tabla.png)
+
+
+  ![HelloWorld](imgs/migraciones.png)
+
 #
 
 ## Ejercicios Propuestos
