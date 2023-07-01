@@ -195,6 +195,12 @@ django-admin startapp calc
   ![HelloWorld](imgs/enviandoMssgss.png)
 
 
+- Se creo la forma de confirmar si un usuario esta registrado, ademas se mejoro las direcciones de los formularios
+
+  ![HelloWorld](imgs/credencialesInvalidos.png)
+
+
+
 
 
 #
