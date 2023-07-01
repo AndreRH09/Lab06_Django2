@@ -190,6 +190,13 @@ django-admin startapp calc
 
   ![HelloWorld](imgs/userCre.png)
 
+- Se modifico el registration para no permitir usuarios, emails y contraseñas incorrectos, ademas se utilizaron mensajes para comunicarse con la pagina web
+
+  ![HelloWorld](imgs/enviandoMssgss.png)
+
+
+
+
 #
 
 ## Ejercicios Propuestos
